@@ -17,7 +17,7 @@ float areakm2;
 float pib2;
 int numerodepontost2;
 
-
+printf("\n====Desafio do Trunfo terminado====\n");
 printf("====Cadastrando a primeira carta!====\n");
 
 printf("Digite uma letra de A - H:\n");
